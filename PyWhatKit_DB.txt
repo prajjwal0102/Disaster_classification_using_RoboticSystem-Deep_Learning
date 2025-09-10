@@ -1,0 +1,20 @@
+Date: 5/6/2025
+Time: 18:4
+Phone Number: +9170xxxxxxxx
+Message: 🚨 Emergency Alert! Please dispatch AMBULANCE to the disaster location.
+--------------------
+Date: 5/6/2025
+Time: 18:7
+Phone Number: +9170xxxxxxxx
+Message: 🚨 Emergency Alert! Please dispatch FIRE BRIGADE to the disaster location.
+--------------------
+Date: 5/6/2025
+Time: 19:14
+Phone Number: +9170xxxxxxxx
+Message: 🚨 Emergency Alert! Please dispatch AMBULANCE to the disaster location.
+--------------------
+Date: 5/6/2025
+Time: 19:48
+Phone Number: +9170xxxxxxxx
+Message: 🚨 Emergency Alert! Please dispatch AMBULANCE to the disaster location.
+--------------------
